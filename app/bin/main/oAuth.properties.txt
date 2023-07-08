@@ -1,0 +1,2 @@
+app.id=f5446d7a-1c7f-44b9-8e12-831224c8d0c6
+app.scopes=User.Read, MailboxSettings.Read, User.ReadBasic.All, User.Read.All, Directory.Read.All, Directory.AccessAsUser.All, Mail.ReadBasic, Mail.Read, Mail.Read.Shared, OnlineMeetingArtifact.Read.All, OnlineMeetings.Read
